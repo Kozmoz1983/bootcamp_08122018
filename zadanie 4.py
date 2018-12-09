@@ -18,7 +18,11 @@ y = (datetime.datetime.now().year)
 print (2000 < year)
 
 
-
+i=0
+while True:
+    print(i)
+    i +=1
+    i = i + 1
 
 
 

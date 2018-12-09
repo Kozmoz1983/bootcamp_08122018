@@ -1,6 +1,6 @@
 a = input("Podaj pierwsza liczbe:")
-b = input(" Podaj druga liczbe:")
-operacja = input(" Podaj rodzaj operacji")
+b = input("Podaj druga liczbe:")
+operacja = input("Podaj rodzaj operacji")
 
 # Rozwiązanie najprostsze
 
